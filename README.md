@@ -243,7 +243,7 @@
 ## استخراج ویژگی‌ها حوزه‌ زمان در پایتون
 
 نحوه‌ی کار با سیگنال صوت و استخراج ویژگی‌های معرفی شده حوزه‌ی زمان در نوت‌بوک 
-<a href = "">time_domain_features.ipynb</a> به همراه توضیحات قرار گرفته. 
+<a href = "https://github.com/salehsargolzaee/Audio-Signal-Processing-and-Feature-Extraction/blob/main/time_domain_features.ipynb">time_domain_features.ipynb</a> به همراه توضیحات قرار گرفته. 
 
 ویژگی‌ها و کاربرد‌های بسیار بیشتری در حوزه‌ی زمان وجود دارند.
 در ادامه به بررسی و پیاده‌سازی یک مثال می‌پردازیم:
@@ -275,7 +275,7 @@
 </div>
 
 
-پیاده سازی این تمرین در نوت‌بوک <a href = "">autocorrelation_and_pitch.ipynb</a> قرار گرفته است.
+پیاده سازی این تمرین در نوت‌بوک <a href = "https://github.com/salehsargolzaee/Audio-Signal-Processing-and-Feature-Extraction/blob/main/autocorrelation_and_pitch.ipynb">autocorrelation_and_pitch.ipynb</a> قرار گرفته است.
 
 
 </div>
